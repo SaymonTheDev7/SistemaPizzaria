@@ -284,3 +284,4 @@ C:\Users\saymon_castro\Documents\GitHub\SistemaPizzaria\SistemaPizzaria\SistemaP
 C:\Users\saymon_castro\Documents\GitHub\SistemaPizzaria\SistemaPizzaria\SistemaPizzaria\obj\Debug\net8.0-windows\SistemaPizzaria.pdb
 C:\Users\saymon_castro\Documents\GitHub\SistemaPizzaria\SistemaPizzaria\SistemaPizzaria\obj\Debug\net8.0-windows\SistemaPizzaria.genruntimeconfig.cache
 C:\Users\saymon_castro\Documents\GitHub\SistemaPizzaria\SistemaPizzaria\SistemaPizzaria\obj\Debug\net8.0-windows\ref\SistemaPizzaria.dll
+C:\Users\saymon_castro\Documents\GitHub\SistemaPizzaria\SistemaPizzaria\SistemaPizzaria\obj\Debug\net8.0-windows\SistemaPizzaria.sourcelink.json

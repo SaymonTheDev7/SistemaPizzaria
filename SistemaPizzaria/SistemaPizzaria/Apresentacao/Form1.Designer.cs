@@ -103,6 +103,7 @@
             // 
             // txtId
             // 
+            txtId.Enabled = false;
             txtId.Location = new Point(39, 82);
             txtId.Name = "txtId";
             txtId.Size = new Size(128, 23);
