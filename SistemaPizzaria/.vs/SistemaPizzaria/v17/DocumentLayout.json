@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\saymon_castro\\Documents\\GitHub\\SistemaPizzaria\\SistemaPizzaria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE2C1D7E-18F6-4E6F-98E6-1A0459E7B836}|SistemaPizzaria\\SistemaPizzaria.csproj|c:\\users\\saymon_castro\\documents\\github\\sistemapizzaria\\sistemapizzaria\\sistemapizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2C1D7E-18F6-4E6F-98E6-1A0459E7B836}|SistemaPizzaria\\SistemaPizzaria.csproj|solutionrelative:sistemapizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2C1D7E-18F6-4E6F-98E6-1A0459E7B836}|SistemaPizzaria\\SistemaPizzaria.csproj|c:\\users\\saymon_castro\\documents\\github\\sistemapizzaria\\sistemapizzaria\\sistemapizzaria\\infraestrutura\\repositorios\\pizzarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2C1D7E-18F6-4E6F-98E6-1A0459E7B836}|SistemaPizzaria\\SistemaPizzaria.csproj|solutionrelative:sistemapizzaria\\infraestrutura\\repositorios\\pizzarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2C1D7E-18F6-4E6F-98E6-1A0459E7B836}|SistemaPizzaria\\SistemaPizzaria.csproj|c:\\users\\saymon_castro\\documents\\github\\sistemapizzaria\\sistemapizzaria\\sistemapizzaria\\aplicacao\\servicos\\pizzaappservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2C1D7E-18F6-4E6F-98E6-1A0459E7B836}|SistemaPizzaria\\SistemaPizzaria.csproj|solutionrelative:sistemapizzaria\\aplicacao\\servicos\\pizzaappservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2C1D7E-18F6-4E6F-98E6-1A0459E7B836}|SistemaPizzaria\\SistemaPizzaria.csproj|c:\\users\\saymon_castro\\documents\\github\\sistemapizzaria\\sistemapizzaria\\sistemapizzaria\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2C1D7E-18F6-4E6F-98E6-1A0459E7B836}|SistemaPizzaria\\SistemaPizzaria.csproj|solutionrelative:sistemapizzaria\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE2C1D7E-18F6-4E6F-98E6-1A0459E7B836}|SistemaPizzaria\\SistemaPizzaria.csproj|c:\\users\\saymon_castro\\documents\\github\\sistemapizzaria\\sistemapizzaria\\sistemapizzaria\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DE2C1D7E-18F6-4E6F-98E6-1A0459E7B836}|SistemaPizzaria\\SistemaPizzaria.csproj|solutionrelative:sistemapizzaria\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,11 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\saymon_castro\\Documents\\GitHub\\SistemaPizzaria\\SistemaPizzaria\\SistemaPizzaria\\Infraestrutura\\Repositorios\\PizzaRepositorio.cs",
+              "RelativeDocumentMoniker": "SistemaPizzaria\\Infraestrutura\\Repositorios\\PizzaRepositorio.cs",
+              "ToolTip": "C:\\Users\\saymon_castro\\Documents\\GitHub\\SistemaPizzaria\\SistemaPizzaria\\SistemaPizzaria\\Infraestrutura\\Repositorios\\PizzaRepositorio.cs",
+              "RelativeToolTip": "SistemaPizzaria\\Infraestrutura\\Repositorios\\PizzaRepositorio.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:47:53.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaAppServico.cs",
+              "DocumentMoniker": "C:\\Users\\saymon_castro\\Documents\\GitHub\\SistemaPizzaria\\SistemaPizzaria\\SistemaPizzaria\\Aplicacao\\Servicos\\PizzaAppServico.cs",
+              "RelativeDocumentMoniker": "SistemaPizzaria\\Aplicacao\\Servicos\\PizzaAppServico.cs",
+              "ToolTip": "C:\\Users\\saymon_castro\\Documents\\GitHub\\SistemaPizzaria\\SistemaPizzaria\\SistemaPizzaria\\Aplicacao\\Servicos\\PizzaAppServico.cs",
+              "RelativeToolTip": "SistemaPizzaria\\Aplicacao\\Servicos\\PizzaAppServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:47:26.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\saymon_castro\\Documents\\GitHub\\SistemaPizzaria\\SistemaPizzaria\\SistemaPizzaria\\Apresentacao\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaPizzaria\\Apresentacao\\Form1.cs",
+              "ToolTip": "C:\\Users\\saymon_castro\\Documents\\GitHub\\SistemaPizzaria\\SistemaPizzaria\\SistemaPizzaria\\Apresentacao\\Form1.cs",
+              "RelativeToolTip": "SistemaPizzaria\\Apresentacao\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:46:21.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saymon_castro\\Documents\\GitHub\\SistemaPizzaria\\SistemaPizzaria\\SistemaPizzaria\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaPizzaria\\Program.cs",
+              "ToolTip": "C:\\Users\\saymon_castro\\Documents\\GitHub\\SistemaPizzaria\\SistemaPizzaria\\SistemaPizzaria\\Program.cs",
+              "RelativeToolTip": "SistemaPizzaria\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:45:05.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\saymon_castro\\Documents\\GitHub\\SistemaPizzaria\\SistemaPizzaria\\SistemaPizzaria\\Apresentacao\\Form1.cs",
               "RelativeDocumentMoniker": "SistemaPizzaria\\Apresentacao\\Form1.cs",

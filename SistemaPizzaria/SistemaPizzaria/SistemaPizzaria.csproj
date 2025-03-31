@@ -17,8 +17,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Infraestrutura\Migrations\" />
-  </ItemGroup>
-
 </Project>
